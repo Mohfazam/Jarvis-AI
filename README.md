@@ -12,6 +12,7 @@ Send Email: Sends an email via Gmail (requires SMTP configuration).
 Prerequisites
 To run the project, you'll need to install the following Python libraries:
 
+
 In Terminal{
 
 pip install pyttsx3
